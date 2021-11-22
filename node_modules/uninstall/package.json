@@ -1,0 +1,36 @@
+{
+  "_from": "uninstall@0.0.0",
+  "_id": "uninstall@0.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ED5uN+nFLshXVCzSWQI9ccej+ys=",
+  "_location": "/uninstall",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "uninstall@0.0.0",
+    "name": "uninstall",
+    "escapedName": "uninstall",
+    "rawSpec": "0.0.0",
+    "saveSpec": null,
+    "fetchSpec": "0.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/uninstall/-/uninstall-0.0.0.tgz",
+  "_shasum": "103e6e37e9c52ec857542cd259023d71c7a3fb2b",
+  "_spec": "uninstall@0.0.0",
+  "_where": "/root/KurzBotz",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "uninstall",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}

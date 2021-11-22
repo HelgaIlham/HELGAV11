@@ -1,0 +1,69 @@
+{
+  "_from": "latest@^0.2.0",
+  "_id": "latest@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-6kfrj0srsM+RcW76qJbC4WI3WHs=",
+  "_location": "/latest",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "latest@^0.2.0",
+    "name": "latest",
+    "escapedName": "latest",
+    "rawSpec": "^0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/latest/-/latest-0.2.0.tgz",
+  "_shasum": "ea47eb8f4b2bb0cf91716efaa896c2e16237587b",
+  "_spec": "latest@^0.2.0",
+  "_where": "/root/KurzBotz",
+  "author": {
+    "name": "Dave Eddy",
+    "email": "dave@daveeddy.com",
+    "url": "http://www.daveeddy.com"
+  },
+  "bin": {
+    "latest": "bin/latest.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bahamas10/node-latest/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "shama",
+      "url": "https://github.com/shama"
+    }
+  ],
+  "dependencies": {
+    "npm": "^2.5.1"
+  },
+  "deprecated": false,
+  "description": "Determine the latest available version of a package in npm",
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/bahamas10/node-latest#readme",
+  "keywords": [
+    "latest",
+    "npm",
+    "version",
+    "up-to-date"
+  ],
+  "name": "latest",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/node-latest.git"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "version": "0.2.0"
+}

@@ -1,0 +1,63 @@
+{
+  "_from": "tiktok-scraper-without-watermark@^1.0.6",
+  "_id": "tiktok-scraper-without-watermark@1.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-U2RoMZy2YJhXR1znwBgG+KApWnr3xptcKn5TDzvuK71BWyJC6UuTK1UzAXEfMj1JosYlilkRmNLSJyNov1qg8A==",
+  "_location": "/tiktok-scraper-without-watermark",
+  "_phantomChildren": {
+    "asynckit": "0.4.0",
+    "combined-stream": "1.0.8",
+    "mime-types": "2.1.34",
+    "side-channel": "1.0.4"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "tiktok-scraper-without-watermark@^1.0.6",
+    "name": "tiktok-scraper-without-watermark",
+    "escapedName": "tiktok-scraper-without-watermark",
+    "rawSpec": "^1.0.6",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tiktok-scraper-without-watermark/-/tiktok-scraper-without-watermark-1.1.3.tgz",
+  "_shasum": "31865ccf39ef9bc7fe6805bf65d8bed31c7c66d2",
+  "_spec": "tiktok-scraper-without-watermark@^1.0.6",
+  "_where": "/root/KurzBotz",
+  "author": {
+    "name": "MRHRTZ"
+  },
+  "bugs": {
+    "url": "https://github.com/MRHRTZ/Tiktok-Scraper-Without-Watermark/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "form-data": "^4.0.0",
+    "qs": "^6.10.1"
+  },
+  "deprecated": false,
+  "description": "Tiktok Scraper, Download Video From Tiktok Without Watermark.",
+  "homepage": "https://github.com/MRHRTZ/Tiktok-Scraper-Without-Watermark#readme",
+  "keywords": [
+    "Tiktok Downloader",
+    "Tiktok Scraper",
+    "Tiktok No WM",
+    "Tiktok No Watermark"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "tiktok-scraper-without-watermark",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRHRTZ/Tiktok-Scraper-Without-Watermark.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.3"
+}

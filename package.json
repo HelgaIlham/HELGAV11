@@ -1,0 +1,73 @@
+{
+  "name": "Helga",
+  "version": "0.0.1",
+  "description": "bitch-boot",
+  "main": "node index",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "denis-putra",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "@vitalets/google-translate-api": "^7.0.0",
+    "awesome-phonenumber": "^2.54.0",
+    "axios": "^0.21.1",
+    "base64-img": "^1.0.4",
+    "base64-to-image": "^1.0.2",
+    "brainly-scraper": "^1.0.3",
+    "cfonts": "^2.9.2",
+    "color": "^4.0.0",
+    "hxz-api": "^1.0.1",
+    "crypto": "^1.0.1",
+    "emoji-api": "^1.0.2",
+    "terminal-kit": "^2.1.6",
+    "fake-useragent": "^1.0.1",
+    "figlet": "^1.5.0",
+    "file-type": "^16.5.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "human-readable": "^0.2.1",
+    "image-to-base64": "^2.2.0",
+    "imgbb-uploader": "^1.3.1",
+    "jsdom": "^16.5.0",
+    "latest": "^0.2.0",
+    "marker": "^0.1.2",
+    "mathjs": "^9.4.3",
+    "insta-fetcher": "^1.2.3",
+    "moment-timezone": "^0.5.33",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "node-tesseract-ocr": "^2.2.1",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.2",
+    "scraper-instagram": "^1.0.17",
+    "spinnies": "^0.5.1",
+    "tiktok-scraper-without-watermark": "^1.0.6",
+    "uninstall": "0.0.0",
+    "ytsr": "^3.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dcode-denpa/bitch-boot/issues"
+  },
+  "homepage": "https://github.com/dcode-denpa/bitch-boot#readme"
+}
