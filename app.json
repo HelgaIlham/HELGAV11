@@ -3,7 +3,7 @@
     "logo": "https://f.top4top.io/p_2149d3qg60.jpg",
     "description": "Subscribe Helga Zex's",
   "keywords": ["nodejs", "bot", "whatsapp bot"]
-    "repository": "https://github.com/HelgaIlham/HELGAV10",
+    "repository": "https://github.com/HelgaIlham/HELGAV11",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
